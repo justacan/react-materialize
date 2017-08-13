@@ -2,7 +2,7 @@
 import React from 'react';  
 import ReactDOM from 'react-dom';
 
-import 'materialize-css';
+
 import './libs/materialize-src/js/bin/materialize.js'
 import './libs/materialize-src/sass/materialize.scss'
 
